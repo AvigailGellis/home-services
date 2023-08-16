@@ -6,10 +6,10 @@ And I’ve had success, so I decided to add 2 other services: cleaning, and moni
 When a customer calls me I need their Name, Email, Address to monitor, CC to charge.
 
 The reports I need are as following:
-1. What is my markup % for each Job sort low to high? I wanna see if it's sometimes too low and I should increase the cap.
-2. I wanna make an employee of the month, Who’s my top employee (makes the most money)?.
-3. I wanna fire the bottom 10 every month so the others will game up and check in more days and stay longer per day.
-4. Which house is using only the mail service? Maybe I forgot to tell them that I also do cleaning and more.
+1) What is my markup % for each Job sort low to high? I wanna see if it's sometimes too low and I should increase the cap.
+2) I wanna make an employee of the month, Who’s my top employee (makes the most money)?.
+3) I wanna fire the bottom 10 every month so the others will game up and check in more days and stay longer per day.
+4) Which house is using only the mail service? Maybe I forgot to tell them that I also do cleaning and more.
 
 Question: How do you calculate the mileage distance between one house and another?
 Answer: The better answer at the end of the spec but for now to calculate the mileage we make a grid make which goes upto 100 on both directions and every house has an X and Y number, the amount of boxes you have to jump in the amount of mileage for the trip
