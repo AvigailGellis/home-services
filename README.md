@@ -5,6 +5,7 @@ I employ residents from the area to do the work, they get $0.25 for each mile th
 And I’ve had success, so I decided to add 2 other services: cleaning, and monitoring (for thieves).
 
 When a customer calls me I need their Name, Email, Address to monitor, CC to charge.
+
 —----------------------
 
 The reports I need are as following:
@@ -12,6 +13,7 @@ What is my markup % for each Job sort low to high? I wanna see if it's sometimes
 I wanna make an employee of the month, Who’s my top employee (makes the most money)?.
 I wanna fire the bottom 10 every month so the others will game up and check in more days and stay longer per day.
 Which house is using only the mail service? Maybe I forgot to tell them that I also do cleaning and more.
+
 —----------------------
 
 Question: How do you calculate the mileage distance between one house and another?
@@ -38,6 +40,7 @@ Answer: 1 Minutes
 
 Question: Would you go to the same house twice a day?
 Answer: Only to do a service that we haven't done this day already
+
 —----------------------
 
 See below an illustration on how to calculate distance between houses.
