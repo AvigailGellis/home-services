@@ -52,18 +52,12 @@ Answer: Only to do a service that we haven't done on this house on this day alre
 —----------------------
 
 Sample data:
-     Name, Address, DestinationWidth, DestinationHeight, NumServicesRequested, ServicesTime, EmployyeName, EmployeeEarnedMoney, ReferralFee
-     James, 123 Main St., 3, 9, 1, 2023-08-15 3:00 PM, Emily, null, null
-     Michael, 896 Main St., 8, 3, 1, 2023-08-15 4:00 PM, Emily, 2.75, 2.75
-     William, 235 First Ave., 88, 3, 2, 2023-08-15 5:00 PM, Emily, 40.0, 10
+     Name, Address, FromDestinationWidth, FromDestinationHeight,ToDestinationWidth, ToDestinationHeight, NumServicesRequested, ServicesTime, EmployyeName, EmployeeEarnedMoney, ReferralFee
+     James, 123 Main St., null, null, 3, 9, 1, 2023-08-15 3:00 PM, Emily, null, null
+     Michael, 896 Main St., 3, 9, 8, 3, 1, 2023-08-15 4:00 PM, Emily, 2.75, 2.75
+     William, 235 First Ave., 8, 3, 88, 3, 2, 2023-08-15 5:00 PM, Emily, 40.00, 10.00
 
 
-
-Example story 1: Joseph wants to get his mail checked, i send Anna to do it, Anna travel 50 miles from whereever she is to Joseph's house,
-     i will pay anna $7.50 (30 miles traveled * $0.25 for each mile), and i will also charge a $7.50 Referral Fee
-Example story 2: Johnny  wants to get his mail checked, i send Amber to do it, Amber travel 50 miles from whereever she is to Johnny's house
-     i will pay Amber $12.50 (50 miles traveled * $0.25 for each mile), but my Referral Fee will only be $10.00 because it's a company policy
-     that the Referral Fee cannot be more the $10
 —----------------------
 
 See below an illustration on how to calculate distance between houses.
