@@ -22,7 +22,7 @@ The reports I need are as following:
      3) I wanna fire the bottom 10 every month so the others will game up and check in more days and stay longer per day.
      4) Which house is using only the mail service? Maybe I forgot to tell them that I also do cleaning and more.
      5) I wanna know on each job hou much more money i would have made if i didn't have a cap on the markup
-     6) Who are my top customers? I wanna send them flowers
+     6) Who are my top customers? 3 I wanna send them flowers
 
 Question: How do you calculate the mileage distance between one house and another?
 Answer: The better answer is at the end of the spec but for now to calculate the mileage we make a grid make which goes upto 100 on both directions and every 
