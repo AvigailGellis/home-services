@@ -9,8 +9,11 @@ Service
 	DestinationHeight int not null between 1 and 100
 	NumServices int not null between 1 and 3
 	DateAndTime datetime not null not greater than the current date
+	MailService bit not null
+	CleaningService bit not null
+	MonitoringService bit not null
 	Employee varchar(25) not null not blank
-	EmployeeFee decimal(6,2) null greater than 5
-	ReferralFee decimal(6,2) between 5 and 10
+	EmployeeFee computed
+	ReferralFee computed
 
 */
